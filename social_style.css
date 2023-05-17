@@ -1,6 +1,15 @@
-.social-links a {
+.links {
+    text-align: center;
+}
+.links li {
+    list-style-type: none;
+    padding-right: 5em;
+    padding-left: 5em;
+    display: inline;
+}
+.links a {
     text-decoration: none;
 }
-.social-links li {
-    list-style-type: none;
+.links a:hover {
+    opacity: 1;
 }

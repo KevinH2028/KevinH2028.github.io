@@ -10,7 +10,7 @@ html {
     background-color: rgb(212, 197, 255);
 }
 
-.top ul {
+nav ul {
     margin: 0;
     background-color: rgb(125, 149, 201);
 }
@@ -19,12 +19,12 @@ html {
     text-align: left;
 }
 
-.top li {
+nav li {
     display: inline;
     padding: 0 5%;
 }
 
-.top a {
+nav a {
     display: inline-block;
     padding: 0.5em;
     color: rgb(0, 0, 0);
@@ -32,14 +32,14 @@ html {
     font-family: Gravitas One, cursive;
 }
 
-.top {
+nav {
     text-align: center;
     font-size: 1.1em;
     font-weight: lighter;
     border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 }
 
-top a:hover {
+nav a:hover {
     background-color: rgb(83, 106, 181);
     margin: 0;
 }
