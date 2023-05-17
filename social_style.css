@@ -3,8 +3,8 @@
 }
 .links li {
     list-style-type: none;
-    padding-right: 5em;
-    padding-left: 5em;
+    padding-right: 3em;
+    padding-left: 3em;
     display: inline;
 }
 .links a {
