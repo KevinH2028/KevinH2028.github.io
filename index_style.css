@@ -28,6 +28,8 @@
 }
 #Profile p {
     font-size: 20px;
+    width: 80%;
+    margin-inline: auto;
 }
 #Profile a {
     text-decoration: none;

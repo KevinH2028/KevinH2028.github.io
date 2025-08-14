@@ -1,0 +1,12 @@
+#projects li {
+    margin: 1%;
+    list-style: none;
+}
+
+#projects {
+    padding-inline: 0.5%;
+}
+
+#projects p {
+    margin-left: 1%;
+}
