@@ -28,8 +28,7 @@
 }
 #Profile p {
     font-size: 20px;
-    width: 80%;
-    margin-inline: auto;
+    margin-inline: 8%;
 }
 #Profile a {
     text-decoration: none;
